@@ -10,7 +10,7 @@ The BBC Series which has the most episodes is "EastEnders".
 
 ...and, 64.27% of series ended up as a one-off series in the entire BBC history.
 
-[Please visit me](https://medium.com/@forsomeregion/week-3-exploratory-data-analysis-with-spreadsheet-python-and-sql-f1265030701f). I mean, if you have time to read something interesting. These are waiting for you:
+[Please visit me](https://medium.com/@forsomeregion/week-3-exploratory-data-analysis-with-spreadsheet-python-and-sql-f1265030701f). I mean, if you have time to read something interesting such as...
 * Outline of the analysis
 * Use cases I started from
 * Strategies for each step of the process
