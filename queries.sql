@@ -41,7 +41,7 @@ FROM scripted
 GROUP BY season
 ORDER BY count desc;
 
-# Short/Limited/Long Breakdown
+# Short/Medium/Long Breakdown
 SELECT category, count(*)
 FROM scripted
 GROUP BY category;
